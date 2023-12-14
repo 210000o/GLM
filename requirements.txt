@@ -1,8 +1,5 @@
-protobuf
-transformers==4.27.1
-cpm_kernels
-torch>=1.10
-gradio
-mdtex2html
-sentencepiece
-accelerate
+flask>=2.0,<2.2.4
+flask-restful>=0.3.9
+gevent>=21.12.0
+revChatGPT>=4.0.5
+urllib3==1.25.11
